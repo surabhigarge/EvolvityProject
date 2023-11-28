@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7202d913-8a87-4edf-8f02-3196d5249b8c</webElementGuid>
+      <webElementGuid>24d3bfc0-a6b7-49c0-93b5-933e38c7849f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c463a780-b0fe-4083-bd2d-589bf23f9f94</webElementGuid>
+      <webElementGuid>9e9425a9-3636-4c44-94ec-e7c0e9cf7545</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>buttons accedi</value>
-      <webElementGuid>12cc13e1-e860-457a-8e3e-f5321a010193</webElementGuid>
+      <webElementGuid>8d079c98-8d9d-4eb0-8121-4aeb8a2cce97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Accedi</value>
-      <webElementGuid>d7b2e05a-6037-47bb-806f-5d9f1764a46e</webElementGuid>
+      <webElementGuid>c17213d0-e120-4ca7-9382-030faef8e5d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;body-content&quot;]/div[@class=&quot;bg-imgmobile&quot;]/section[@class=&quot;mid-align&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row ipad-reverse&quot;]/div[@class=&quot;col-md-7 widfuipad&quot;]/form[1]/div[@class=&quot;registrati-form&quot;]/div[@class=&quot;text-center&quot;]/button[@class=&quot;buttons accedi&quot;]</value>
-      <webElementGuid>d5e02266-ed2b-4e79-a8f1-798e4e976a84</webElementGuid>
+      <webElementGuid>28f7a2ec-85ae-4718-afcb-8db8b0ef662a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>7ffcd94c-9481-4351-a79e-fad7852af738</webElementGuid>
+      <webElementGuid>44df974e-a614-42f0-bce5-58181e87d4d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/section/div/div/div[2]/form/div/div[3]/button</value>
-      <webElementGuid>add3cad0-8020-47d3-977e-acbc7dc98ed1</webElementGuid>
+      <webElementGuid>78dd7d83-dab2-429e-a998-dc92f84d2b91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>aae600e2-e3d0-461f-a276-967ee58749ea</webElementGuid>
+      <webElementGuid>4abd24f5-0c1c-4f2c-ada2-e8f00648921a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Accedi' or . = 'Accedi')]</value>
-      <webElementGuid>9abea663-af70-45a6-ba5e-f75e5121adfd</webElementGuid>
+      <webElementGuid>cfb0c7c1-4826-4b97-92cc-58059ff7a449</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>7198917b-1e1a-4d0a-949e-9be8d3ea3515</webElementGuid>
+      <webElementGuid>813961dc-2c52-4152-b0e4-63488e0939e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>46af599c-9e7b-49e5-8fa3-46200ed18834</webElementGuid>
+      <webElementGuid>af17dd3f-cce4-4431-85c6-aaccc5cfca30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>User ID</value>
-      <webElementGuid>35544eef-7ff1-49f6-a8e3-0f55461d3261</webElementGuid>
+      <webElementGuid>01c634f9-26bf-47db-b292-f9877fd9d349</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>d0dd4cac-d353-4205-a974-00509f24669d</webElementGuid>
+      <webElementGuid>4a69d996-fdf5-410a-8cb1-2fc27bd88caa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>aef43ad5-e891-4540-9df8-e2f7e31aaf30</webElementGuid>
+      <webElementGuid>24d96109-2675-4a48-ad7f-2e985afd5e66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>hemant.uchchasare@5exceptions.com</value>
-      <webElementGuid>e923e450-db3b-4aa2-9472-f88cb489fb18</webElementGuid>
+      <webElementGuid>2043eedf-25c8-42f5-aa2f-cf2e8a830174</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;body-content&quot;]/div[@class=&quot;bg-imgmobile&quot;]/section[@class=&quot;mid-align&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row ipad-reverse&quot;]/div[@class=&quot;col-md-7 widfuipad&quot;]/form[1]/div[@class=&quot;registrati-form&quot;]/div[@class=&quot;form-group relative&quot;]/input[@class=&quot;form-control&quot;]</value>
-      <webElementGuid>65c4a3e0-385c-4822-972a-96813ff4e302</webElementGuid>
+      <webElementGuid>71dfc898-96b1-42b7-82e7-3d7c6c3ee539</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='email']</value>
-      <webElementGuid>4eef4a93-67fe-470d-bc14-234c5c8d7fb2</webElementGuid>
+      <webElementGuid>26044935-e113-49cf-970e-2dad9b9659a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div/div/section/div/div/div[2]/form/div/div/input</value>
-      <webElementGuid>d313475e-ad59-4490-a6e9-1753c8fe7ba9</webElementGuid>
+      <webElementGuid>9d6a7682-9872-4f97-9551-29e8c144c624</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>f2f6939c-999d-437d-bdeb-1ed5179f74df</webElementGuid>
+      <webElementGuid>4dcb4d3f-b86f-4f46-95d0-7c3c3aeee9a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'email' and @placeholder = 'User ID' and @name = 'email']</value>
-      <webElementGuid>6de50365-15bf-4caf-82f0-44f88caa0730</webElementGuid>
+      <webElementGuid>f28da8ea-e10e-467e-93b9-24e962fe8e24</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
