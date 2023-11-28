@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_mr-2 mt-2</name>
+   <tag></tag>
+   <elementGuidId>9b1772b8-3639-4c58-b58c-9219bea11897</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.mr-2.mt-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collapse_0_0']/div/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/static/media/VIDEO_ICONAvideo.0e37b82e.svg' and @alt = 'icon']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ff9cd5ee-5a49-4684-a26a-04e0eafcf2bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mr-2 mt-2</value>
+      <webElementGuid>1d8092e0-d913-40b4-99cc-72aa87030e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/VIDEO_ICONAvideo.0e37b82e.svg</value>
+      <webElementGuid>99f346de-0ba7-4e7a-9bc2-479e468e18eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>7785030d-4902-4c61-968c-f523357e9055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse_0_0&quot;)/div[@class=&quot;d-flex align-items-start cursor-pointer&quot;]/img[@class=&quot;mr-2 mt-2&quot;]</value>
+      <webElementGuid>a56aefe8-c2e9-490b-8221-b8aaeb76547a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collapse_0_0']/div/img</value>
+      <webElementGuid>446141d8-b059-4385-82af-f112dfae0b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='icon'])[15]</value>
+      <webElementGuid>647d9547-eac3-4399-8a5e-c7f0912b824b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>0d7a5f7e-0a35-47be-8ebf-84457c2228a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/static/media/VIDEO_ICONAvideo.0e37b82e.svg' and @alt = 'icon']</value>
+      <webElementGuid>19bf7a10-190e-4f0b-99ef-fe0cfc681b94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

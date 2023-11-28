@@ -6,7 +6,22 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://katalon-studio-samples.github.io/calculator'</initValue>
+      <initValue>'https://staging.humanlytic.com/app/login/prysmian'</initValue>
       <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'hemant.uchchasare@5exceptions.com'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'7Dxoto1EjKfoc3Lmys/f5Q=='</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2</initValue>
+      <name>timeout</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Programoptimizationdescription in engli_71910a</name>
+   <tag></tag>
+   <elementGuidId>92f7dab5-a1ba-45c0-ae60-5ff6a1dd298a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.right-dashboard.topspace</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/section/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e2afd1a7-1e04-482d-a89c-48e6b6e0d798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right-dashboard topspace</value>
+      <webElementGuid>ef4c2cc2-1671-4b97-9313-93868a0669e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Programoptimizationdescription in englishoptimize 1course1 description in english3 ways community creates a healthy lifeMaintaining a healthy weight takes more than diet and exercise, says physical activity epidemiologist Olivia Affuso. In this actionable talk, she shows how you can kickstart a healthy life by tapping into the collective power of a community that supports and motivates your health goals.Go to the test</value>
+      <webElementGuid>0b90f4a7-1b3e-42ab-be7f-93ad734edcef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;body-content&quot;]/section[@class=&quot;full_bg dashboard-mobile&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 pr-0 p0 ipd-righ&quot;]/div[@class=&quot;right-dashboard topspace&quot;]</value>
+      <webElementGuid>9410197c-8c7b-4fb3-b0f3-9f689e27e730</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/div/div/div[2]/div</value>
+      <webElementGuid>7a109d44-c2c6-4131-a7d2-1e8f1fd744bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>0b6c17d9-df9b-4c3e-a41b-e35a42c45335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Programoptimizationdescription in englishoptimize 1course1 description in english3 ways community creates a healthy lifeMaintaining a healthy weight takes more than diet and exercise, says physical activity epidemiologist Olivia Affuso. In this actionable talk, she shows how you can kickstart a healthy life by tapping into the collective power of a community that supports and motivates your health goals.Go to the test' or . = 'Programoptimizationdescription in englishoptimize 1course1 description in english3 ways community creates a healthy lifeMaintaining a healthy weight takes more than diet and exercise, says physical activity epidemiologist Olivia Affuso. In this actionable talk, she shows how you can kickstart a healthy life by tapping into the collective power of a community that supports and motivates your health goals.Go to the test')]</value>
+      <webElementGuid>52226b0e-3fe0-44b1-a39c-80e885569b95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

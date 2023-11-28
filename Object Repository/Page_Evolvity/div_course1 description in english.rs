@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_course1 description in english</name>
+   <tag></tag>
+   <elementGuidId>45651af6-71a7-425a-9e95-5b60670f6b33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-ellipsis.text-left.cursor-pointer.text-color-wh</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordion']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;accordion&quot;)/div[@class=&quot;iapdwful p-r15&quot;]/div[@class=&quot;card mb-0&quot;]/div[@class=&quot;bot-lini&quot;]/div[@class=&quot;text-ellipsis text-left cursor-pointer text-color-wh&quot;][count(. | //div[(text() = '${Text}' or . = '${Text}')]) = count(//div[(text() = '${Text}' or . = '${Text}')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aaf0407b-b037-44f0-a599-92629cc174f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-ellipsis text-left cursor-pointer text-color-wh</value>
+      <webElementGuid>919f50e3-25c2-45a1-a8c7-24b81a723bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${Text}</value>
+      <webElementGuid>3cb9820e-fe03-4ee3-b06f-16549757dd64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion&quot;)/div[@class=&quot;iapdwful p-r15&quot;]/div[@class=&quot;card mb-0&quot;]/div[@class=&quot;bot-lini&quot;]/div[@class=&quot;text-ellipsis text-left cursor-pointer text-color-wh&quot;]</value>
+      <webElementGuid>4815b7e3-e149-4ae0-b304-ff9b9bb2b6a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion']/div/div/div/div</value>
+      <webElementGuid>dc90ce51-a1cc-4198-b3ee-1993bfc2a86d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>65aedebb-6967-4f3c-a21a-4a36472e33fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'course1 description in english' or . = 'course1 description in english')]</value>
+      <webElementGuid>5cacf469-22a9-4712-be08-85aa7e916588</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

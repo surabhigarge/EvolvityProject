@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dashboard General</name>
+   <tag></tag>
+   <elementGuidId>3e358a95-28e5-4d3c-83ad-75793bddf6ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-8.col-md-8.col-lg-9.col-xl-9.pr-sm-0.pr-md-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/section/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33c1e1d0-608f-4780-8ec7-3307d0f9f5e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-8 col-md-8 col-lg-9 col-xl-9 pr-sm-0 pr-md-0</value>
+      <webElementGuid>9495689c-e313-4305-a279-b8cd7367a41c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dashboard General</value>
+      <webElementGuid>84882fa7-f4a7-4b25-9e89-fe89b2e79a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;body-content&quot;]/section[@class=&quot;full_bg dashboard-mobile dashboard-section&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10 p0 pr-0 ipd-righ&quot;]/div[@class=&quot;right-dashboard topspace leftr-dari&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-lg-9 col-xl-9 pr-sm-0 pr-md-0&quot;]</value>
+      <webElementGuid>cec5d8eb-3ae4-4234-9984-4086f1fc3ba3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/section/div/div/div[2]/div/div/div</value>
+      <webElementGuid>a316e2dd-6e9e-4592-b04c-d236c979e59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>eeca48f3-9f1b-4477-a683-5e92415a2930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dashboard General' or . = 'Dashboard General')]</value>
+      <webElementGuid>72cceefa-8d7c-4448-9437-cc811ffd0715</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

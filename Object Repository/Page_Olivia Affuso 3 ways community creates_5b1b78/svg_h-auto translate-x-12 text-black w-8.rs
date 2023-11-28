@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_h-auto translate-x-12 text-black w-8</name>
+   <tag></tag>
+   <elementGuidId>5d66a0dd-297c-4527-942a-ea99fa9355d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4a57a9b7-f6f7-4a03-803c-9eac9d9841c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 -4 20 31</value>
+      <webElementGuid>8340d009-d3d9-428c-951b-fe6bade96cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>39f889df-be31-40e0-be45-b95ef3e0a7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-auto translate-x-[12%] text-black w-8</value>
+      <webElementGuid>f8dd32e7-7c3e-4ccf-ac86-8a8e6cc577b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;w-full px-5 md:px-10 xl:px-16 bg-white&quot;]/div[@class=&quot;mx-auto w-full max-w-content-max&quot;]/div[@class=&quot;flex w-full flex-col lg:flex-row&quot;]/div[@class=&quot;flex w-full flex-col pt-4&quot;]/div[@class=&quot;sticky top-0 z-20 bg-white sm:-mx-5 lg:top-[unset] lg:block&quot;]/div[1]/div[@class=&quot;relative w-full&quot;]/div[1]/button[@class=&quot;items-center flex overflow-hidden relative w-full z-20 pointer-events-auto cursor-pointer&quot;]/section[@class=&quot;relative flex w-full items-stretch&quot;]/div[@class=&quot;relative block w-full&quot;]/div[@class=&quot;absolute top-0 bottom-0 left-0 right-0 block&quot;]/div[@class=&quot;flex items-end justify-end&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;hidden md:block&quot;]/div[@class=&quot;absolute inset-0 flex h-full w-full cursor-pointer items-center justify-center transition-transform duration-[0.125s] ease-in-out hover:scale-[1.15]&quot;]/div[@class=&quot;w-20 h-20 relative flex items-center justify-center rounded-full bg-white&quot;]/svg[@class=&quot;h-auto translate-x-[12%] text-black w-8&quot;]</value>
+      <webElementGuid>9aa6ef01-2f53-48a1-acb1-7f32515d219d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

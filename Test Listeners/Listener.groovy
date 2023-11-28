@@ -25,21 +25,10 @@ import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as Cucumber
 
 class Listener {
 	
-	/**
-	 * Executes after every test case ends.
-	 * @param testCaseContext related information of the executed test case.
-	 */
-	@AfterTestCase
-	def sampleAfterTestCase(TestCaseContext testCaseContext) {
-		WebUI.closeBrowser();
-	}
-
-	/**
-	 * Add the GLUE option for Cucumber to locate the step definition files.
-	 * @param testCaseContext related information of the executed test case.
-	 */
+	
 	@BeforeTestCase
 	def beforeTestCase(TestCaseContext testCaseContext) {
-		CucumberKW.GLUE = ['common', 'operations']
+		WebUI.openBrowser('')
+		CucumberKW.GLUE = ['common']
 	}
 }
